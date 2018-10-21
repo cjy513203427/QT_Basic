@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/dota2.jpg</file>
+        <file>image/timg.jpg</file>
+    </qresource>
+</RCC>
